@@ -1,0 +1,17 @@
+/* Center align the buttons */
+.container {
+    text-align: center;
+}
+
+/* Center the content vertically and horizontally */
+.row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust this to center the content within the viewport */
+}
+
+
+    
+
